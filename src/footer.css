@@ -1,0 +1,28 @@
+.simple-footer {
+  background-color: #f0f0f0; /* Light gray background */
+  padding: 20px;
+  text-align: center;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center; /* Center the icons horizontally */
+  gap: 20px; /* Space between the icons */
+  margin-bottom: 10px; /* Space between icons and copyright */
+}
+
+.social-icon {
+  color: black; /* Dark gray icon color */
+  text-decoration: none; /* Remove default link underline */
+  transition: color 0.3s ease; /* Smooth hover effect */
+}
+
+.social-icon:hover {
+  color: #747eda; /* Blue color on hover (example) */
+}
+
+.copyright {
+  font-size: 0.8em;
+  color: #777;
+  margin: 0;
+}
