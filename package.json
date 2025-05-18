@@ -18,7 +18,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "rayfieds -d build",
+    "deploy": "rayfieds.github.io -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -45,5 +45,5 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://gitname.github.io/react-gh-pages"
+  "homepage": "https://rayfieds.github.io"
 }
