@@ -6,13 +6,13 @@ function Footer() {
   return (
     <footer className="simple-footer">
       <div className="social-links">
-        <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer" className="social-icon">
+        <a href="https://www.linkedin.com/in/rachaelni/" target="_blank" rel="noopener noreferrer" className="social-icon">
           <FaLinkedin size={30} />
         </a>
-        <a href="YOUR_GITHUB_URL" target="_blank" rel="noopener noreferrer" className="social-icon">
+        <a href="https://github.com/rayfieds" target="_blank" rel="noopener noreferrer" className="social-icon">
           <FaGithub size={30} />
         </a>
-        <a href="mailto:YOUR_EMAIL_ADDRESS" className="social-icon">
+        <a href="mailto:rachael.sy.ni@gmail.com" className="social-icon">
           <FaEnvelope size={30} />
         </a>
       </div>
